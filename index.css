@@ -4,8 +4,8 @@ html{
     font-family: 'Work Sans', sans-serif;
 }
 body {
-    background: linear-gradient(110deg, #2d2d2d 61%, #989898 60%);
-    color: rgb(195, 189, 189);
+    background: linear-gradient(110deg, #BAA677 61%, #A98F56 60%);
+    color: white;
     margin: 0;
     padding: 0;
 }
@@ -46,7 +46,7 @@ p {
 .postcard {
     text-align: center;
     width: auto;
-    background-color: bisque;
+    background-color: #5670A9;
     color: black;
     margin: 50px 10px 0 10px;
     padding: 10px;
