@@ -4,8 +4,10 @@ html{
     font-family: 'Work Sans', sans-serif;
 }
 body {
-    background-color: rgb(90, 86, 86);
+    background: linear-gradient(110deg, #2d2d2d 61%, #989898 60%);
     color: rgb(195, 189, 189);
+    margin: 0;
+    padding: 0;
 }
 h1 {
     text-align: center;
@@ -37,9 +39,9 @@ p {
 .hobby p {
     text-align: center;
 }
-.place {
+/*.place {
     margin-top: 1000px;
-}
+}*/
 
 .postcard {
     text-align: center;
@@ -55,7 +57,7 @@ p {
     cursor: pointer;
 }
 .postcard:hover{
-    transform: scale(1.2);
+    transform: scale(1.05);
 }
 .horizontal-list {
    list-style: none;
