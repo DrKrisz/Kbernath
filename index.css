@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
 
+#more {display: none;}
 html{
     font-family: 'Work Sans', sans-serif;
 }
@@ -67,4 +68,8 @@ p {
 ul a {
     margin: 0;
     text-decoration: none;
+}
+.postcard a {
+    background-color:#BAA677;
+    padding: 5px;
 }
